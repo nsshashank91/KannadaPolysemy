@@ -1,0 +1,19 @@
+<Sentence id="1">			
+1	((	NP	<fs af='ವ್ಯಕ್ತಿ,n,m,sg,3,d,0,0' head="ವ್ಯಕ್ತಿ">
+1.1	ಉತ್ಸಾಹಯುಕ್ತ	JJ	<fs af='ಉತ್ಸಾಹಯುಕ್ತ,unk,,,,,,' poslcat="NM">
+1.2	ಉತ್ಸಾಹಯುಕ್ತ	JJ	<fs af='ಉತ್ಸಾಹಯುಕ್ತ,unk,,,,,,' poslcat="NM">
+1.3	ವ್ಯಕ್ತಿ	NN	<fs af='ವ್ಯಕ್ತಿ,n,m,sg,3,d,0,0' name="ವ್ಯಕ್ತಿ">
+	))		
+2	((	NP	<fs af='ಯಾವುದೇ,Avy,,,,,,' head="ಯಾವುದೇ"  poslcat="NM">
+2.1	ಯಾವುದೇ	PRP	<fs af='ಯಾವುದೇ,Avy,,,,,,' name="ಯಾವುದೇ"  poslcat="NM">
+	))		
+3	((	VGF	<fs af='ಕೆಲಸವಾದರೂ,unk,,,,,,' head="ಕೆಲಸವಾದರೂ"  poslcat="NM">
+3.1	ಕೆಲಸವಾದರೂ	VM	<fs af='ಕೆಲಸವಾದರೂ,unk,,,,,,' name="ಕೆಲಸವಾದರೂ"  poslcat="NM">
+	))		
+4	((	RBP	<fs af='ಬೇಗ,Avy,,,,,,' head="ಬೇಗ"  poslcat="NM">
+4.1	ಬೇಗ	RB	<fs af='ಬೇಗ,Avy,,,,,,' name="ಬೇಗ"  poslcat="NM">
+	))		
+5	((	VGF	<fs af='ಮುಗಿಸು,v,n,pl,3,,ಉತ್ತ್,uww' head="ಮುಗಿಸುತ್ತಾರೆ">
+5.1	ಮುಗಿಸುತ್ತಾರೆ	VM	<fs af='ಮುಗಿಸು,v,n,pl,3,,ಉತ್ತ್,uww' name="ಮುಗಿಸುತ್ತಾರೆ">
+	))		
+</Sentence>			
